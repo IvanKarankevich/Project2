@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Karankevich Ivan",
+    "age": 29,
+    "email":"vancha224@gmail.com",
+    "balance":"3000$",
+    "Credits": [
+     {
+     "Namebank":"Belinvestbank",
+     "Bankid": 1234,
+     "Debt": 1000$,
+     } 
+     {
+     "Namebank":"Belarusbank",
+     "Bankid": 1235,
+     "Debt": 0$,
+     } 
+     {
+     "Namebank":"Bsbbank",
+     "Bankid": 1236,
+     "Debt": 200$,
+     } 
+    ],
+  },
+  {
+    "name": "Nikolaenok Pavel",
+    "age": 19,
+    "email":"pavel22@gmail.com",
+    "balance":"300$",
+    "Credits": [
+     {
+     "Namebank":"Belinvestbank",
+     "Bankid": 1234,
+     "Debt": 0$,
+     } 
+     {
+     "Namebank":"Belarusbank",
+     "Bankid": 1235,
+     "Debt": 0$,
+     } 
+     {
+     "Namebank":"Bsbbank",
+     "Bankid": 1236,
+     "Debt": 100$,
+     } 
+    ],
+  },
+  {
+    "name": "Nikitina Viktoria",
+    "age": 25,
+    "email":"vika1995@gmail.com",
+    "balance":"30000$",
+    "Credits": [
+     {
+     "Namebank":"Belinvestbank",
+     "Bankid": 1234,
+     "Debt": 0$,
+     } 
+     {
+     "Namebank":"Belarusbank",
+     "Bankid": 1235,
+     "Debt": 5000$,
+     } 
+     {
+     "Namebank":"Bsbbank",
+     "Bankid": 1236,
+     "Debt": 0$,
+     } 
+    ],
+  },
